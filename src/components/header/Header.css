@@ -1,0 +1,23 @@
+.Header-Style{
+position: fixed;
+}
+
+.Header-bkg {
+  background-color: #f7c454;
+  color: #f7c454;
+}
+
+.Header-image{
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+.Header-text{
+    color: #ffffff;
+    font-family:sans-serif;
+    margin-left: 20px auto;
+    text-align: right;
+    font-size: medium;
+}
+
